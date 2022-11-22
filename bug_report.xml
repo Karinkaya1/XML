@@ -1,1 +1,11 @@
-
+<bug report1>
+  <ID>bug1</ID>
+  <Summary>Кнопка "Политика конфиденциальности" не кликабельна в футере сайта</Summary>
+  <Description>При нажатии кнопки "Политика конфиденциальности" в футере сайта она не является рабочей</Description>
+  <Precondition>Зайти на https://test.qa.studio/ Спуститься в футер сайта Кликнуть по кнопке "Политика конфиденциальности"</Preconditio>
+  <ExpectedResult>Кнопка "Политика конфиденциальности" не кликабельна</ExpectedResult>
+  <ActualResult>Кнопка "Политика конфиденциальности" кликабельна </ActualResut>
+  <Severity>Minor</Severity>
+  <Priority>Low</Priority>
+  <Environment>Windows 10 Версия 21Н1 (сборка ОС 19043.1889), Google Chrome Версия 104.0.5112.81 (Официальная сборка), (64 бит)</Environment>
+</bug report1>
